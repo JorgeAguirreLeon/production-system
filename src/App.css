@@ -65,6 +65,7 @@
 @media (max-height: 750px) {
   .App {
     height: 100%;
+    overflow: hidden;
     width: 100%;
   }
 }
